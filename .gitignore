@@ -1,2 +1,5 @@
-tmp/app.db
+db/app.db
 node_modules/
+.env
+.env.test
+dist/
